@@ -1,2 +1,3 @@
-# Phd-Fall-2022
-One Repository for all phd things related
+# Interview Experience
+
+* My Main Research Interest is cognitive Science and its application with ML,IR. I managed to get a call from a professor at University of Maryland Baltimore County after mailing her that I am indeed interested in her research Lab. Make sure your email is specific enough and you could somehow relate to the research interest of the professor's. During the Call the professor asked me about my Mtech Thesis , the research expierence of mine as well as the tools or theortical knowledge of some things that she is working on. Kindly Note that the professor are mostly looking for the persons who are really interested , so if your research expierence  might not be in her domain but as long as you can get the professor convince that you are really interested in her work, that might not be an issue. Hence while i didnt have much expierence in some of the things that she asked for , i still was able to get her convinced for taking me in promising that I would try to take the courses of that skiils either in semester of my mtech college or eventually in the phd
